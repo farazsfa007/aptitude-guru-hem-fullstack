@@ -84,8 +84,9 @@ main.jsx
 
 ### 1. Clone Repository
 ```sh
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/farazsfa007/aptitude-guru-hem-fullstack
+cd <backend>
+cd <frontend>
 
 
 ###  2. Backend Setup
