@@ -5,7 +5,7 @@ import QuizPage from './pages/QuizPage';
 import ResultPage from './pages/ResultPage';
 import Navbar from './components/Navbar';
 
-import PrivateRoute from './privateRoute/privateRoute';
+import PrivateRoute from './PrivateRoute';
 
 function App() {
   return (
